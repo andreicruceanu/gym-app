@@ -9,7 +9,7 @@ const links: NavLinks[] = [
     href: "/home",
   },
   {
-    label: "benefits",
+    label: "Benefits",
     href: "/benefits",
   },
   {
